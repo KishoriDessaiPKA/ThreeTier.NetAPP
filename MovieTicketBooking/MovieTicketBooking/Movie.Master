@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Movie.master.cs" Inherits="MovieTicketBooking.Movie" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+      <link href="Stylesheet/Main.css" rel="stylesheet" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+  
+</head>
+<body>
+    <div id="mainContainer">
+     <header id="titleHeader">
+         <span> ONLINE MOVIE TICKET BOOKING SYSTEM </span>
+        </header>
+    <div id="content">
+    <form id="form1" runat="server">
+    <div>
+       
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+        </div>
+    <footer>
+        Copyright@2017
+    </footer>
+    </div>
+</body>
+</html>

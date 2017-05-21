@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Session-02\MovieTicketBooking\TicketBizEntity\bin\Debug\TicketBizEntity.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Session-02\MovieTicketBooking\TicketBizEntity\bin\Debug\TicketBizEntity.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Session-02\MovieTicketBooking\TicketBizEntity\obj\Debug\TicketBizEntity.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Session-02\MovieTicketBooking\TicketBizEntity\obj\Debug\TicketBizEntity.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Session-02\MovieTicketBooking\TicketBizEntity\obj\Debug\TicketBizEntity.csprojResolveAssemblyReference.cache
